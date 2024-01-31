@@ -1,0 +1,23 @@
+Collecting clean-fid
+  Using cached clean_fid-0.1.35-py3-none-any.whl (26 kB)
+Requirement already satisfied: pillow>=8.1 in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (9.4.0)
+Requirement already satisfied: numpy>=1.14.3 in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (1.23.5)
+Requirement already satisfied: torchvision in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (0.15.0+cu117)
+Requirement already satisfied: scipy>=1.0.1 in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (1.10.0)
+Requirement already satisfied: requests in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (2.28.1)
+Requirement already satisfied: torch in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (2.0.0+cu117)
+Requirement already satisfied: tqdm>=4.28.1 in c:\users\deepe\anaconda3\lib\site-packages (from clean-fid) (4.64.1)
+Requirement already satisfied: colorama in c:\users\deepe\anaconda3\lib\site-packages (from tqdm>=4.28.1->clean-fid) (0.4.6)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\deepe\anaconda3\lib\site-packages (from requests->clean-fid) (2022.12.7)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\deepe\anaconda3\lib\site-packages (from requests->clean-fid) (3.4)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in c:\users\deepe\anaconda3\lib\site-packages (from requests->clean-fid) (1.26.14)
+Requirement already satisfied: charset-normalizer<3,>=2 in c:\users\deepe\anaconda3\lib\site-packages (from requests->clean-fid) (2.0.4)
+Requirement already satisfied: filelock in c:\users\deepe\anaconda3\lib\site-packages (from torch->clean-fid) (3.9.0)
+Requirement already satisfied: typing-extensions in c:\users\deepe\anaconda3\lib\site-packages (from torch->clean-fid) (4.4.0)
+Requirement already satisfied: sympy in c:\users\deepe\anaconda3\lib\site-packages (from torch->clean-fid) (1.11.1)
+Requirement already satisfied: jinja2 in c:\users\deepe\anaconda3\lib\site-packages (from torch->clean-fid) (3.1.2)
+Requirement already satisfied: networkx in c:\users\deepe\anaconda3\lib\site-packages (from torch->clean-fid) (2.8.4)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\deepe\anaconda3\lib\site-packages (from jinja2->torch->clean-fid) (2.1.1)
+Requirement already satisfied: mpmath>=0.19 in c:\users\deepe\anaconda3\lib\site-packages (from sympy->torch->clean-fid) (1.2.1)
+Installing collected packages: clean-fid
+Successfully installed clean-fid-0.1.35
