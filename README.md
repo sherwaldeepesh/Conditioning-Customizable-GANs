@@ -1,3 +1,12 @@
+Project have different update and tested for smaller version of dataset.
+
+
+This repository is borrowed from [**Project**](https://peterwang512.github.io/GANSketching/)
+
+
+
+
+
 ## Sketch Your Own GAN
  [**Project**](https://peterwang512.github.io/GANSketching/) | [**Paper**](https://arxiv.org/abs/2108.02774) | [**Youtube**](https://www.youtube.com/watch?v=1smwQ-tSCjM) | [**Slides**](https://drive.google.com/file/d/1ADtaOLauX3h-mB3tmjdMFs1hcnJNKZwO/edit)
 
